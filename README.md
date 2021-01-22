@@ -1,4 +1,4 @@
-### Hi there 👋
+### Well, Hello there!👋
 
 <!--
 **KarlCF/KarlCF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+``` yaml
+Karl
+  Work: GFT
+  Job: Solutions Architect
+  Tech:
+    - AWS
+    - Cloud Custodian
+    - Vault
+    - Terraform
+    - Python
+    - VsCode
+    - Linux
+  Loves:
+    - Studying
+    - Gaming (PC)
+    - Cooking
+    - Movies
+    - TV Shows
+
+```
