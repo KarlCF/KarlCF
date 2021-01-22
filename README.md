@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ``` yaml
-Karl
+Karl:
   Work: GFT
   Job: Solutions Architect
   Tech:
