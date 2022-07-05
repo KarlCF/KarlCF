@@ -17,16 +17,18 @@ Here are some ideas to get you started:
 
 ``` yaml
 Karl:
-  Work: GFT
-  Job: Solutions Architect
+  Job: DevOps Engineer
   Tech:
     - AWS
     - Cloud Custodian
     - Vault
     - Terraform
     - Python
+    - Boto3
     - VsCode
     - Linux
+    - GitHub Actions
+    - Kubernetes
   Loves:
     - Studying
     - Gaming (PC)
